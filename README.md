@@ -3,13 +3,13 @@
 I'm a programmer 
 
 <p align="left">
-  <a href="https://stackoverflow.com/users/4868262">
+  <a href="https://stackoverflow.com/users/13156707">
     <img alt="Stack Exchange reputation" src="https://img.shields.io/stackexchange/stackoverflow/r/13156707?color=orange&label=reputation&logo=stackoverflow">
   </a>
-  <a href="https://reddit.com/u/macropower">
+  <a href="https://reddit.com/u/XOYZ69">
     <img alt="Reddit User Karma" src="https://img.shields.io/reddit/user-karma/combined/XOYZ69?label=karma&logo=reddit">
   </a>
-  <a href="https://github.com/MacroPower?tab=followers">
+  <a href="https://github.com/XOYZ69?tab=followers">
     <img alt="GitHub followers" src="https://img.shields.io/github/followers/XOYZ69?color=green&logo=github">
   </a>
 </p>
@@ -60,7 +60,7 @@ I'm a programmer
       <a href="https://github.com/XOYZ69/Benchmark-X">
         <img src="https://cdn.icon-icons.com/icons2/41/PNG/128/SpeedTest_speedometer_6974.png" width="48" height="48" alt="Python" />
       </a>
-      <br>Benchmark-X
+      <br>Benchmark&#x2011;X
     </td>
   </tr>
 </table>
