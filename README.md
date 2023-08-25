@@ -1,20 +1,66 @@
-Hi I'm Kevin,
+# Hi I'm Kevin,
 
-I'm just an another dev coding whatever my brain can carrry me. Look around and maybe you find something intresting.
+I'm a programmer 
 
-## Language and Tools:
+<p align="left">
+  <a href="https://stackoverflow.com/users/4868262">
+    <img alt="Stack Exchange reputation" src="https://img.shields.io/stackexchange/stackoverflow/r/13156707?color=orange&label=reputation&logo=stackoverflow">
+  </a>
+  <a href="https://reddit.com/u/macropower">
+    <img alt="Reddit User Karma" src="https://img.shields.io/reddit/user-karma/combined/XOYZ69?label=karma&logo=reddit">
+  </a>
+  <a href="https://github.com/MacroPower?tab=followers">
+    <img alt="GitHub followers" src="https://img.shields.io/github/followers/XOYZ69?color=green&logo=github">
+  </a>
+</p>
 
-<div>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/latex/latex-original.svg" title="LaTeX" **alt="LaTeX" width="40" height="40"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg" title="Java" **alt="Java" width="40" height="40"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
-</div>
+- :office: &nbsp;I'm currently working at **update texware GmbH**
+- :wrench: I am Currently working on **[Yoshida](https://github.com/XOYZ69/Yoshida)**
 
-# My Stats :
-|[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=XOYZ69&theme=github_dark)](https://github.com/anuraghazra/github-readme-stats)|[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=XOYZ69&theme=dark&background=000000)](https://git.io/streak-stats)| 
-|---|---|
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=XOYZ69&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+<h2 align="left" id="XOYZ69-tech">Favorite Tech</h2>
+
+> Tools, languages, and other things that I like to work with.
+
+<table>
+  <tr>
+    <td align="center" width="96">
+      <a href="#XOYZ69-tech">
+        <img src="https://github.com/abrahamcalf/programming-languages-logos/blob/master/src/python/python.svg?raw=true" width="48" height="48" alt="Python" />
+      </a>
+      <br>Python
+    </td>
+    <td align="center" width="96">
+      <a href="#XOYZ69-tech">
+        <img src="https://github.com/abrahamcalf/programming-languages-logos/blob/master/src/csharp/csharp.svg?raw=true" width="48" height="48" alt="C#" />
+      </a>
+      <br>C#
+    </td>
+    <td align="center" width="96">
+      <a href="#XOYZ69-tech">
+        <img src="https://github.com/simple-icons/simple-icons/blob/develop/icons/latex.svg?raw=true" width="48" height="48" alt="LaTeX" />
+      </a>
+      <br>LaTeX
+    </td>
+  </tr>
+</table>
+
+<h2 align="left" id="top_repos">Favorite Repos</h2>
+
+> My favorite Projects I've contributed so far.
+
+<table>
+  <tr>
+    <td align="center" width="96">
+      <a href="https://github.com/XOYZ69/Yoshida">
+        <img src="https://github.com/simple-icons/simple-icons/blob/develop/icons/github.svg?raw=true" width="48" height="48" alt="Python" />
+      </a>
+      <br>Yoshida
+    </td>
+    <td align="center" width="96">
+      <a href="https://github.com/XOYZ69/Benchmark-X">
+        <img src="https://cdn.icon-icons.com/icons2/41/PNG/128/SpeedTest_speedometer_6974.png" width="48" height="48" alt="Python" />
+      </a>
+      <br>Benchmark-X
+    </td>
+  </tr>
+</table>
