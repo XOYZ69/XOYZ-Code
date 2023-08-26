@@ -1,3 +1,12 @@
+<!--- Markdown Settings --->
+<style>
+  td, th {
+    border: none!important;
+  }
+</style>
+
+<!--- Markdown starts here --->
+
 # Hi I'm Kevin,
 
 I'm a programmer 
@@ -21,7 +30,7 @@ I'm a programmer
 
 > Tools, languages, and other things that I like to work with.
 
-<table stlye="border: none">
+<table>
   <tr>
     <td align="center" width="96">
       <a href="#XOYZ69-tech">
@@ -54,7 +63,7 @@ I'm a programmer
 
 > My favorite Projects I've contributed so far.
 
-<table stlye="border: none">
+<table>
   <tr>
     <td align="center" width="96">
       <a href="https://github.com/XOYZ69/Yoshida">
