@@ -21,7 +21,7 @@ I'm a programmer
 
 > Tools, languages, and other things that I like to work with.
 
-<table>
+<table stlye="border: none">
   <tr>
     <td align="center" width="96">
       <a href="#XOYZ69-tech">
@@ -41,6 +41,12 @@ I'm a programmer
       </a>
       <br>LaTeX
     </td>
+    <td align="center" width="96">
+      <a href="#XOYZ69-tech">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/zig/zig-original.svg" width="48" height="48" alt="LaTeX" />
+      </a>
+      <br>Zig
+    </td>
   </tr>
 </table>
 
@@ -48,7 +54,7 @@ I'm a programmer
 
 > My favorite Projects I've contributed so far.
 
-<table>
+<table stlye="border: none">
   <tr>
     <td align="center" width="96">
       <a href="https://github.com/XOYZ69/Yoshida">
