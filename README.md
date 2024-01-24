@@ -1,10 +1,3 @@
-<!--- Markdown Settings --->
-<style>
-  td, th {
-    border: none!important;
-  }
-</style>
-
 <!--- Markdown starts here --->
 
 # Hi I'm Kevin,
@@ -14,9 +7,6 @@ I'm a programmer
 <p align="left">
   <a href="https://stackoverflow.com/users/13156707">
     <img alt="Stack Exchange reputation" src="https://img.shields.io/stackexchange/stackoverflow/r/13156707?color=orange&label=reputation&logo=stackoverflow">
-  </a>
-  <a href="https://reddit.com/u/XOYZ69">
-    <img alt="Reddit User Karma" src="https://img.shields.io/reddit/user-karma/combined/XOYZ69?label=karma&logo=reddit">
   </a>
   <a href="https://github.com/XOYZ69?tab=followers">
     <img alt="GitHub followers" src="https://img.shields.io/github/followers/XOYZ69?color=green&logo=github">
