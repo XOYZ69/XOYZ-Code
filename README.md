@@ -36,24 +36,25 @@ I'm always open for contact so just write me :D
 
 The projects listed here are the ones I feel comfy with to share. Nevertheless do **not** expect a stable experience unless there is a stable release :P
 
-<table>
-  <tr>
-    <td align="center" width="150">
-      <a href="https://github.com/XOYZ69/Yoshida">
+<div align="center">
+  <div width="150px" style="float: left; margin: 10px;">
+    <a href="https://github.com/XOYZ69/Yoshida">
         <img src="https://raw.githubusercontent.com/XOYZ69/Yoshida/f2591e0aafc8267977745fabbbdb30368a7132ef/yoshida_icon.png" width="48" height="48" alt="Python" />
       </a>
       <br>
       Yoshida
       <br>
       <img src="https://img.shields.io/github/v/release/XOYZ69/Yoshida.svg?sort=semver">
-    </td>
-    <td align="center" width="150">
-      <a href="https://github.com/XOYZ69/Benchmark-X">
+  </div>
+  <div width="150px" style="float: left; margin: 10px;">
+    <a href="https://github.com/XOYZ69/Benchmark-X">
         <img src="https://cdn.icon-icons.com/icons2/41/PNG/128/SpeedTest_speedometer_6974.png" width="48" height="48" alt="Python" />
       </a>
       <br>Benchmark&#x2011;X
       <br>
       <img src="https://img.shields.io/github/v/release/XOYZ69/Benchmark-X.svg?sort=semver&display_name=release">
-    </td>
-  </tr>
-</table>
+  </div>
+</div>
+
+<img align="right" class="svg" src="https://flagicons.lipis.dev/flags/4x3/de.svg" alt="German">
+<img align="right" class="svg" src="https://flagicons.lipis.dev/flags/4x3/us.svg" alt="German">

@@ -3,6 +3,60 @@
 -->
 
 <link rel="stylesheet" href="css/style.css">
+<style>
+.content-center {
+    margin-top:auto;
+    margin-bottom:auto;
+    text-align:center;
+}
+.progress-bar {
+    background: #f1f6fa;
+    border-radius: 5px;
+    box-shadow: inset 0 0 0 1px #ccd6dd;
+    height: 10px;
+    overflow: hidden;
+    position: relative;
+    text-indent: 100%;
+    width: 300px;
+    margin: 5px;
+}
+.progress-bar--wrap {
+    display: flex;
+    font-size: 13px;
+    font-weight: 500;
+    line-height: 1;
+    margin: -10px 0;
+    align-items: center;
+}
+.progress-bar--inner {
+    border-radius: 10px;
+    height: 10px;
+    left: 0;
+    min-height: 10px;
+    position: absolute;
+    top: 0;
+    animation-name: animation_startup;
+    animation-duration: 1.5s;
+}
+@keyframes animation_startup {
+    from { width: 0%; }
+}
+.progress-color-0 {
+    background-color: #D0E6BC;
+}
+.progress-color-25 {
+    background-color: #B7E4C7;
+}
+.progress-color-50 {
+    background-color: #95D5B2;
+}
+.progress-color-75 {
+    background-color: #74C69D;
+}
+.progress-color-100 {
+    background-color: #40916C;
+}
+</style>
 
 ![](assets/banner_header.png)
 
