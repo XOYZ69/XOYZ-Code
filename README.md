@@ -55,6 +55,3 @@ The projects listed here are the ones I feel comfy with to share. Nevertheless d
       <img src="https://img.shields.io/github/v/release/XOYZ69/Benchmark-X.svg?sort=semver&display_name=release">
   </div>
 </div>
-
-<img align="right" class="svg" src="https://flagicons.lipis.dev/flags/4x3/de.svg" alt="German">
-<img align="right" class="svg" src="https://flagicons.lipis.dev/flags/4x3/us.svg" alt="German">
