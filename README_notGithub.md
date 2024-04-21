@@ -57,3 +57,36 @@ The projects listed here are the ones I feel comfy with to share. Nevertheless d
     </td>
   </tr>
 </table>
+
+## `> user.get_communication()`
+
+<div style="display: flex; flex-wrap: wrap;">
+    <!-- Language German -->
+    <div class="progress-bar--wrap progress-bar--blue">
+        <img class="svg" src="https://flagicons.lipis.dev/flags/4x3/de.svg" alt="German">
+        <div class="progress-bar">
+            <div class="progress-bar--inner progress-color-100" style="width: 100%;"></div>
+        </div>
+    </div>
+    <!-- Language English -->
+    <div class="progress-bar--wrap progress-bar--blue">
+        <img class="svg" src="https://flagicons.lipis.dev/flags/4x3/us.svg" alt="English">
+        <div class="progress-bar">
+            <div class="progress-bar--inner progress-color-75" style="width: 80%;"></div>
+        </div>
+    </div>
+    <!-- Language Spanish -->
+    <div class="progress-bar--wrap progress-bar--blue">
+        <img class="svg" src="https://flagicons.lipis.dev/flags/4x3/es.svg" alt="Spanish">
+        <div class="progress-bar">
+            <div class="progress-bar--inner progress-color-25" style="width: 15%;"></div>
+        </div>
+    </div>
+    <!-- Language Japanese -->
+    <div class="progress-bar--wrap progress-bar--blue">
+        <img class="svg" src="https://flagicons.lipis.dev/flags/4x3/jp.svg" alt="Japanese">
+        <div class="progress-bar">
+            <div class="progress-bar--inner progress-color-0" style="width: 5%;"></div>
+        </div>
+    </div>
+</div>
