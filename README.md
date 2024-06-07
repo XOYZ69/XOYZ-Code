@@ -29,7 +29,6 @@ I'm always open for contact so just write me :D
     <a href="https://www.linux.org/"><img src="https://skillicons.dev/icons?i=linux" alt="Linux (the cute penguin :3)"></a>
     <a href="https://www.raspberrypi.com/"><img src="https://skillicons.dev/icons?i=raspberrypi" alt="Raspi"></a>
     <a href="https://arduino.cc/"><img src="https://skillicons.dev/icons?i=arduino" alt="Arduino"></a>
-    <a href="https://ziglang.org/"><img src="https://skillicons.dev/icons?i=zig" alt="Zig Programming language"></a>
 </p>
 
 ## `> user.get_projects()`
@@ -39,7 +38,7 @@ The projects listed here are the ones I feel comfy with to share. Nevertheless d
 <div align="center">
   <div width="150px" style="float: left; margin: 10px;">
     <a href="https://github.com/XOYZ69/Yoshida">
-        <img src="https://raw.githubusercontent.com/XOYZ69/Yoshida/f2591e0aafc8267977745fabbbdb30368a7132ef/yoshida_icon.png" width="48" height="48" alt="Python" />
+        <img src="https://raw.githubusercontent.com/XOYZ69/Yoshida/f2591e0aafc8267977745fabbbdb30368a7132ef/yoshida_icon.png" width="48" height="48" alt="Yoshida" />
       </a>
       <br>
       Yoshida
@@ -47,10 +46,20 @@ The projects listed here are the ones I feel comfy with to share. Nevertheless d
       <img src="https://img.shields.io/github/v/release/XOYZ69/Yoshida.svg?sort=semver">
   </div>
   <div width="150px" style="float: left; margin: 10px;">
-    <a href="https://github.com/XOYZ69/Benchmark-X">
-        <img src="https://cdn.icon-icons.com/icons2/41/PNG/128/SpeedTest_speedometer_6974.png" width="48" height="48" alt="Python" />
+    <a href="https://github.com/XOYZ69/school_reports">
+        <img src="https://github.com/XOYZ69/school_reports/blob/master/data/marketing/logo.png?raw=true" width="48" height="48" alt="school reports" />
       </a>
-      <br>Benchmark&#x2011;X
+      <br>
+      school reports
+      <br>
+      <img src="https://img.shields.io/github/v/release/XOYZ69/school_reports.svg?sort=semver&display_name=release">
+  </div>
+  <div width="150px" style="float: left; margin: 10px;">
+    <a href="https://github.com/XOYZ69/Benchmark-X">
+        <img src="https://cdn.icon-icons.com/icons2/41/PNG/128/SpeedTest_speedometer_6974.png" width="48" height="48" alt="Benchmark-X" />
+      </a>
+      <br>
+      Benchmark&#x2011;X
       <br>
       <img src="https://img.shields.io/github/v/release/XOYZ69/Benchmark-X.svg?sort=semver&display_name=release">
   </div>
